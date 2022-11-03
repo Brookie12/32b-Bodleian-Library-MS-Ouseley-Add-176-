@@ -11,7 +11,7 @@
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: Dragon's Hair",
-    "zoom":5,
+    "zoom":4,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -29,7 +29,7 @@
   {"type":"Feature","properties":
     {"id":4,
     "chapter":"Chapter 4: Dragon's Eyes",
-    "zoom":5,
+    "zoom":4,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
     "source-link":"http://rootsweb.ancestry.com/~asylums/stlouis_mo/index.html",
@@ -47,7 +47,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: Other Sons",
-    "zoom":5,
+    "zoom":3,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -56,7 +56,7 @@
     {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 7: Dragon Body",
-    "zoom":5,
+    "zoom":3,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -65,7 +65,7 @@
 {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 8: Bushes",
-    "zoom":5,
+    "zoom":3,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
@@ -74,7 +74,7 @@
 {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 9: Dragon Hand",
-    "zoom":5,
+    "zoom":3,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
