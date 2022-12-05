@@ -20,7 +20,7 @@
   {"type":"Feature","properties":
     {"id":3,
     "chapter":"Chapter 3: Dragon's Eyes",
-    "zoom":4,
+    "zoom":5,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -38,7 +38,7 @@
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: Second Son",
-    "zoom":3,
+    "zoom":5,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -47,7 +47,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: First & Third Sons",
-    "zoom":3,
+    "zoom":5,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -56,7 +56,7 @@
   {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7: Fire",
-    "zoom":4,
+    "zoom":5,
     "image":"",
     "source-credit":"",
     "source-link":"",
